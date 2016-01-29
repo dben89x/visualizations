@@ -1,0 +1,2 @@
+class SubstancesController < ApplicationController
+end

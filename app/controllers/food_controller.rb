@@ -1,0 +1,2 @@
+class FoodController < SubstanceController
+end

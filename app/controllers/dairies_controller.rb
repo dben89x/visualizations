@@ -1,0 +1,2 @@
+class DairiesController < FoodController
+end
